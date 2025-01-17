@@ -6,7 +6,7 @@ export default function NavBar() {
 
         <div className='flex justify-between items-center w-screen bg-[#2499bf] h-16'>
             {/* <img src={logo2} alt='Logo' /> */}
-           <h1 className='text-white font-serif text-2xl ml-5 font-semibold'>LAP Lanka Tours</h1>
+           <h1 className='text-white font-serif text-2xl ml-5 font-xl'>LAP Lanka Tours</h1>
 
 
             <ul className='flex gap-8 m-2 text-white font-semibold font-sans'>
